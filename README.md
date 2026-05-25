@@ -40,7 +40,7 @@
 
 ---
 
-## 4. SDLC PHASE MAPPING
+## 3. SDLC PHASE MAPPING
 
 | SDLC Phase | Activities | Applies To |
 |---|---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## 5. PRIORITY MATRIX
+## 4. PRIORITY MATRIX
 
 | Priority | Web App | Mobile App | Thick Client | API | Cloud-Native | Hybrid App |
 |---|---|---|---|---|---|---|
